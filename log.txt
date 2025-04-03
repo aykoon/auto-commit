@@ -1,0 +1,8 @@
+[main d5a77f1] auto commit
+ 2 files changed, 1 insertion(+)
+ create mode 100644 log.txt
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
