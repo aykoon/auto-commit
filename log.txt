@@ -6,3 +6,6 @@ To push the current branch and set the remote as upstream, use
 
     git push --set-upstream origin main
 
+[main cd67d2c] auto commit
+ 1 file changed, 1 insertion(+)
+fatal: could not read Username for 'https://github.com': No such device or address
